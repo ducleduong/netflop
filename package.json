@@ -7,8 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "docker:start": "docker-compose up -d",
-    "docker:stop": "docker-compose down",
     "db:seed": "node seed-data.js"
   },
   "dependencies": {
