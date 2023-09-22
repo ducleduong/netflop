@@ -29,7 +29,7 @@ NEXTAUTH_JWT_SECRET=<your-next-jwt-secret>
 NEXTAUTH_SECRET=<your-next-secret>
 ```
 
-Run follwowing commands:
+Run following commands:
 
 ```bash
 //Install packages
