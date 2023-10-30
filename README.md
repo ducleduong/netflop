@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a
-    target="_blank"
-    href="https://mage.ai"
+  <p
   >
     <img
       align="center"
@@ -9,7 +7,7 @@
       src="https://github.com/ducleduong/netflop/blob/master/public/images/banner.png?raw=true"
       style="width:100%; margin-bottom: 10px;"
     />
-  </a>
+  </p>
   <img
       align="center"
       alt="Mage"
